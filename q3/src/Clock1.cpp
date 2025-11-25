@@ -1,7 +1,7 @@
 #include <iostream>
 #include <iomanip>
 #include <stdexcept>
-#include "Clock1.h"
+#include "../header/Clock1.h"
 using namespace std;
 
 Clock::Clock()

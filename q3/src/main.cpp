@@ -1,5 +1,5 @@
 #include <iostream>
-#include "Clock1.h"
+#include "../header/Clock1.h"
 using namespace std;
 
 int main (void)
