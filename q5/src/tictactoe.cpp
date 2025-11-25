@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 #include <stdexcept>
-#include "tictactoe.h"
+#include "../header/tictactoe.h"
 using namespace std;
 
 TicTacToe::TicTacToe()
