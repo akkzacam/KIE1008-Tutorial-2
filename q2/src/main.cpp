@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-#include "day_type.h"
+#include "../header/day_type.h"
 using namespace std;
 
 void inputDay(string&);

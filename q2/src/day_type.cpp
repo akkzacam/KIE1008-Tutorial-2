@@ -1,7 +1,8 @@
 #include <iostream>
 #include <string>
 #include <stdexcept>
-#include "day_type.h"
+#include "../header/day_type.h"
+using namespace std;
 
 dayType::dayType()
 {
