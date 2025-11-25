@@ -1,7 +1,7 @@
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
-#include "die.h"
+#include "../header/die.h"
 using namespace std;
 
 die::die()

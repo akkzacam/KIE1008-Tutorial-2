@@ -1,6 +1,6 @@
 #include <iostream>
 #include <ctime>
-#include "die.h"
+#include "../header/die.h"
 using namespace std;
 
 int main (void)
